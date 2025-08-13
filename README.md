@@ -164,15 +164,12 @@ The project can be deployed to any platform that supports Next.js:
 3. Make your changes
 4. Submit a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
 **Aayush Kotadia**
-- Email: [Your Email]
-- GitHub: [Your GitHub]
+- Email: [aayushkotadia@gmail.com]
+
 
 ## 🙏 Acknowledgments
 
