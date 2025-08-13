@@ -168,7 +168,7 @@ The project can be deployed to any platform that supports Next.js:
 ## 👨‍💻 Developer
 
 **Aayush Kotadia**
-- Email: [aayushkotadia@gmail.com]
+- Email: aayushkotadia76@gmail.com
 
 
 ## 🙏 Acknowledgments
