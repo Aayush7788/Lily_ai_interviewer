@@ -1,7 +1,9 @@
 {
-  "name": "prepwise",
+  "name": "lily",
   "version": "0.1.0",
   "private": true,
+  "author": "Aayush Kotadia",
+  "description": "AI-Powered Interview Preparation Platform",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
